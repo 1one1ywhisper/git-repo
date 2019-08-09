@@ -1,2 +1,3 @@
 prit("Hello world!");
 print("Kyky");
+print("Hello my dear friend")
