@@ -1,2 +1,3 @@
 prit("Hello world!")
+print("fixes")
 print("Kyky")
