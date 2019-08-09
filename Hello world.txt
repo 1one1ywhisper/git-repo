@@ -1,1 +1,2 @@
 prit("Hello world!");
+print("Kyky");
