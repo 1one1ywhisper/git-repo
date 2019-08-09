@@ -1,1 +1,1 @@
-prit("Hello world");
+prit("Hello world!");
