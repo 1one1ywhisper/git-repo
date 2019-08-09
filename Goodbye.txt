@@ -1,0 +1,2 @@
+print("goodbye");
+rint("bb");
