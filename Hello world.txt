@@ -1,3 +1,6 @@
-prit("Hello world!")
-print("fixes")
-print("Kyky")
+prit("Hello world!");
+print("Kyky");
+print("Hello my dear friend");
+prit("Hello world!");
+print("fixes");
+print("Kyky");
