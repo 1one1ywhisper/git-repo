@@ -1,2 +1,2 @@
-prit("Hello world!");
-print("Kyky");
+prit("Hello world!")
+print("Kyky")
